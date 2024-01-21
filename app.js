@@ -1,11 +1,11 @@
-import { BoatManager } from "./boatManager.js";
-import { PlaneManager } from "./planeManager.js";
-import { InputHandler } from "./io.js";
-import { SeaData } from "./seaData.js";
-import { Score } from "./scoreManager.js";
-import { Lives } from "./liveManager.js";
-import { ParachuteManager } from "./parachuteManager.js";
-import { BackgroundData } from "./backgroundData.js";
+import { BoatManager } from "./Actors/boatManager.js";
+import { PlaneManager } from "./Actors/planeManager.js";
+import { InputHandler } from "./utiles/io.js";
+import { SeaData } from "./Data/seaData.js";
+import { Score } from "./Actors/scoreManager.js";
+import { Lives } from "./Actors/liveManager.js";
+import { ParachuteManager } from "./Actors/parachuteManager.js";
+import { BackgroundData } from "./Data/backgroundData.js";
 
 window.addEventListener("load", function () {
   const canvas = this.document.getElementById("canvas1");
