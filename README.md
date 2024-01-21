@@ -7,3 +7,5 @@ game rules :
 - each time a parachuter falles into the water 1 live goes down and 1 point from score value as well
 - each time a bout caches a parachuter 10 extra points are earned.
 - when parachuter reaches the water 5 times the game realoads with initual values.
+
+
