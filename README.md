@@ -8,4 +8,4 @@ game rules :
 - each time a bout caches a parachuter 10 extra points are earned.
 - when parachuter reaches the water 5 times the game realoads with initual values.
 
-
+![alt text](https://github.com/alinakrigel/2D-js-game-/blob/master/resources/2dgame.PNG)
